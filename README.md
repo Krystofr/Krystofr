@@ -1,6 +1,6 @@
 # 👋 Hello, Chris here
 
-I'm a Senior Android Engineer with 5+ years of experience building modern, scalable apps using Jetpack Compose, Kotlin, and Clean Architecture.
+I'm a Senior Android Engineer with a proven track record of building modern, scalable apps using Jetpack Compose, Kotlin, and Clean Architecture.
 
 - 🔧 Currently building: [TravelSpike] – an AI-powered itinerary & travel planner
 - 🌍 Passionate about: Sustainability, Mobility, and Open Source
@@ -44,7 +44,7 @@ I'm a Senior Android Engineer with 5+ years of experience building modern, scala
 ➡️ See more on [Medium](https://medium.com/@christopher.nanju)
 
 ## 🎓 Android Development Bootcamp
-<img width="1536" height="1024" alt="bootcamp_curriculum" src="https://github.com/user-attachments/assets/bc63b4ff-cb93-4446-921a-3a1519edd213" />
+Android Bootcamp Curriculum (May 2025 - July 2025 Cohort): [bootcamp_curriculum](https://serious-capri-bd7.notion.site/Ravyncore-Mobile-Bootcamp-Curriculum-May-July-2025-2376310c099c803d9849d72ebb1aa5ed)
 
 
 I lead a **free Android Bootcamp** where I mentor people from non-tech/diverse backgrounds (QA, property, data, etc) into Android engineering careers.
