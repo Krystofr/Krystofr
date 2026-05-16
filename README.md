@@ -2,11 +2,10 @@
 
 Senior Android Engineer focused on building scalable, production-ready Android apps with **Kotlin**, **Jetpack Compose**, **Clean Architecture**, and modern mobile engineering practices.
 
-I work across Android, Kotlin Multiplatform, AI-powered mobile experiences, offline-first architecture, and developer education through Ravyncore Mobile.
+I work across Android, Kotlin Multiplatform, AI-powered mobile experiences, offline-first architecture
 
 - 🌍 Interests: Sustainability, Mobility, AI, Open Source
-- 🎓 Volunteer Developer @ Eco-Centre
-- 👨‍🏫 Ravyncore Mobile Bootcamp Instructor
+- 🎓 Volunteered @ Eco-Centre as Android Engineer to help build and ship a cross-platform sustainability application.
 - 📬 Connect: [LinkedIn](https://www.linkedin.com/in/christopher-nanju-523577167/) | [Medium](https://medium.com/@christopher.nanju)
 
 ---
@@ -30,13 +29,12 @@ I work across Android, Kotlin Multiplatform, AI-powered mobile experiences, offl
 - Clean Architecture
 - MVVM / MVI
 - UseCases, Repositories, Data Sources
-- Kotlin Flow, Coroutines
-- Room
-- Jetpack Navigation
+- Flow, Kotlin Coroutines
+- Jetpack libraries (Room, Navigation, Paging, DataStore, WorkManager, etc)
 - Firebase Cloud Functions
 - Firestore
 - Offline-first architecture
-- Unit and UI testing
+- Unit, integration and UI testing
 
 ---
 
@@ -48,7 +46,7 @@ I work across Android, Kotlin Multiplatform, AI-powered mobile experiences, offl
 
 ---
 
-## ✍️ Medium Articles
+## ✍️ Sample Medium Articles
 
 - 📄 [From Room to UI: Mastering Offline-first Architecture with Flow and Compose](https://medium.com/@christopher.nanju/from-room-to-ui-mastering-offline-first-architecture-with-flow-and-compose-ec4283ca49ea)
 - 📄 [Lessons From the Edge: Here’s What I Learned Building and Integrating Machine Learning Models into Real Android Apps](https://medium.com/@christopher.nanju/lessons-from-the-edge-heres-what-i-learned-building-and-integrating-machine-learning-models-into-9fcb003c0554)
@@ -60,7 +58,7 @@ I work across Android, Kotlin Multiplatform, AI-powered mobile experiences, offl
 
 ## 🎓 Android Development Bootcamp
 
-I lead a free Android Bootcamp through Ravyncore Mobile, helping people from non-tech and diverse backgrounds build practical Android engineering skills.
+I led a free Android Bootcamp helping individuals from non-tech and diverse backgrounds build practical Android engineering skills.
 
 **Curriculum:** [Android Bootcamp Curriculum — May 2025 to July 2025 Cohort](https://serious-capri-bd7.notion.site/Ravyncore-Mobile-Bootcamp-Curriculum-May-July-2025-2376310c099c803d9849d72ebb1aa5ed)
 
@@ -76,7 +74,7 @@ I lead a free Android Bootcamp through Ravyncore Mobile, helping people from non
 
 ### Impact
 
-- 20+ mentees trained
+- 50+ mentees trained
 - Practical app-based learning
 - GitHub portfolio development
 - Inclusive support for learners transitioning into Android engineering
